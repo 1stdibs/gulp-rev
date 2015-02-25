@@ -1,21 +1,9 @@
 {
-  "name": "gulp-rev",
-  "version": "2.0.1",
-  "description": "Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-098f6bcd.css",
+  "name": "dibs-gulp-rev",
+  "version": "2.0.2",
+  "description": "Dibs fork of sindresorhus/gulp-rev. .manifest accepts a `base` option for trimming the urls that are written to the manifest map",
   "license": "MIT",
-  "repository": "sindresorhus/gulp-rev",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
-  },
-  "maintainers": [
-    {
-      "name": "Justin Hileman",
-      "email": "justin@justinhileman.info",
-      "url": "http://justinhileman.info"
-    }
-  ],
+  "repository": "1stdibs/dibs-gulp-rev",
   "engines": {
     "node": ">=0.10.0"
   },
